@@ -5,10 +5,9 @@ author: admin
 widget_id: about
 headless: true
 weight: 20
-title: ""
+title: "About Me"
 design:
   background:
     image: ""
     image_darken: 0.7
 ---
-test

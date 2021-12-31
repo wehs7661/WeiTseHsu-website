@@ -69,6 +69,6 @@ email: "wehs7661@colorado.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-A passionate chemical engineering Ph.D. student interested in unriddling biophysical and biochemical phenomena using computational methods. Have experiences in molecular design, advanced sampling, computer-aided molecule design, and deep learning.
+Hi! My name is Wei-Tse Hsu and I am a Ph.D student in the [Shirts Research Group](https://www.colorado.edu/lab/shirtsgroup/) in the Department of Chemical and Biological Engineering at University of Colorado Boulder. I'm passionate about unriddling biophysical and biochemical phenomena using computational methods. I have ab
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
