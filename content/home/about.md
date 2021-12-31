@@ -8,7 +8,7 @@ weight: 20
 title: ""
 design:
   background:
-    image: icon.png
+    image: ""
     image_darken: 0.7
 ---
 test
