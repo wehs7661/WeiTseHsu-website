@@ -6,7 +6,7 @@ title: Wei-Tse Hsu
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student at University of Colorado Boulder
+role: Ph.D. Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,4 +71,4 @@ highlight_name: true
 ---
 Hi! My name is Wei-Tse Hsu and I am a Ph.D student in the [Shirts Research Group](https://www.colorado.edu/lab/shirtsgroup/) in the Department of Chemical and Biological Engineering at University of Colorado Boulder. I'm passionate about unriddling biophysical and biochemical phenomena using computational methods. I have ab
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
